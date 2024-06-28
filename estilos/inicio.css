@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(182, 167, 148);
+}
+
+.contenedor {
+    text-align: center;
+}
+
+#titulo {
+    text-decoration: underline;
+    font-family: cursive;
+    color: rgb(75, 53, 25);
+    font-size: 35px;
+}
+
+.integrantes {
+    margin-left: 2%;
+    color: #3f2f24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.marcoteorico {
+    color: #3f2f24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.antecedentes {
+    margin-left: 2%;
+}
+
+.propiedades {
+    margin-left: 2%;
+}
+
+.conclusiones {
+    margin-left: 2%;
+}
+
+.hipotesis {
+    margin-left: 2%;
+}
